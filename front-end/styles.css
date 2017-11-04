@@ -1,3 +1,5 @@
+/*Colors: #E9E9E9, #4EB1BA, #222930*/
+
 h1 {
     text-align:center;
     font-size: 3em;
@@ -15,12 +17,6 @@ h2 {
     border-radius: 25px;
 
     text-align: center;
-
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
 
     margin: auto;
 }
