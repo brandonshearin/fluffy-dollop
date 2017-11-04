@@ -10,9 +10,7 @@ h2 {
     color: #E9E9E9;
 }
 
-div {
-    width: 250px;
-    height: 200px;
+.centerDiv {
     background-color: #4EB1BA;
     border-radius: 25px;
 
